@@ -2,7 +2,7 @@
     "name": "marioquartz/systembasic/FechaExtra",
     "type": "library",
     "autoload": {
-        "ps-4": {
+        "psr-4": {
             "systembasic\\Fecha\\": "src/"
         }
     }
