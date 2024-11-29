@@ -1,6 +1,6 @@
 <?php
 
-namespace systembasic\Fecha;
+namespace marioquartz\Fecha;
 
 class DateTimeExtra extends \DateTime
 {
